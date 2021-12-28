@@ -57,7 +57,7 @@ This project is used by the following companies:
 
 ## Ensemble
 
-- ![Roadmap](poolpalletroadmap.png)
+![Roadmap](poolpalletroadmap.png)
 ## Whirlpool
 
 - [Overview](https://composablefi.medium.com/introducing-whirlpool-cash-the-innovative-blockchain-privacy-protocol-on-picasso-a845922bc02e)

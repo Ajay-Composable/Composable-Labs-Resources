@@ -79,7 +79,7 @@ This project is used by the following companies:
 
 ## Support
 
-For support, email ajay@composable.finace or you can join our Discord Channel.
+For support, email ajay@composable.finance or you can join our Discord Channel.
 
 
 [Discord Invite](https://discord.gg/NdqTdGES87)
